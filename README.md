@@ -69,12 +69,7 @@ not reduce loop diameter less than 1 cm).
 ▪ Plot a graph of the received signal amplitude versus the loop diameter.
 # TABULATION:
 
-![WhatsApp Image 2025-11-24 at 5 59 33 AM(1)](https://github.com/user-attachments/assets/cf072b3e-693c-4c33-8d09-ac47161ae2b9)
-
-
-# CALCULATION:
- ![WhatsApp Image 2025-11-24 at 5 59 34 AM](https://github.com/user-attachments/assets/536c6474-d0c3-42bf-ab97-358a856bcd7b)
-
+![WhatsApp Image 2025-11-24 at 6 21 12 AM](https://github.com/user-attachments/assets/0f30157f-adff-42cb-b7aa-fc599ebec844)
 
 # RESULT:
 The propogation and bending losses of the plastic optical fiber were measured for two different wavelength.It was observed that losses varied with wavelength and incerased with tighter bending.
